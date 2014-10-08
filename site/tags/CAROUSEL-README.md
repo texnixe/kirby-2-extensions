@@ -1,6 +1,8 @@
 Carousel tag
 ============
 
+[carousel.php](site/tags/carousel.php)
+
 ## Requirements
 
 - Kirby 2
