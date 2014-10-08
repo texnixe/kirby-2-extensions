@@ -1,5 +1,5 @@
-Carousel tag
-============
+Bootstrap carousel tag
+======================
 
 [carousel.php](carousel.php)
 
