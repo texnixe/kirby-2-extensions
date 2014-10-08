@@ -23,11 +23,11 @@
 			}
 			
 			$buttons = "<a class='left carousel-control' href='#carousel' role='button' data-slide='prev'>
-							<span class='glyphicon glyphicon-chevron-left'></span>
-						</a>
-						<a class='right carousel-control' href='#carousel' role='button' data-slide='next'>
-							<span class='glyphicon glyphicon-chevron-right'></span>
-						</a>";
+						<span class='glyphicon glyphicon-chevron-left'></span>
+					</a>
+					<a class='right carousel-control' href='#carousel' role='button' data-slide='next'>
+						<span class='glyphicon glyphicon-chevron-right'></span>
+					</a>";
 			
 			return '<div id="carousel" class="carousel slide" data-ride="carousel"><div class="carousel-inner">' . $item . '</div>' . $buttons . '</div>';
 
