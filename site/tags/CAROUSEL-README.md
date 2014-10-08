@@ -1,7 +1,7 @@
 Carousel tag
 ============
 
-[carousel.php](site/tags/carousel.php)
+[carousel.php](carousel.php)
 
 ## Requirements
 
