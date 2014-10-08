@@ -6,7 +6,7 @@
 			$item = '';
 			$n    = 0;
 			
-			foreach ($tag->page()->images() as $image) {
+			foreach ($tag->page()->images()->sortBy('sort', 'asc') as $image) {
 				
 				if($n == 0) {
 					$active = 'active';
